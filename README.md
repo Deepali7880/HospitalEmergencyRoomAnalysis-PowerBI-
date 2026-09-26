@@ -71,3 +71,30 @@ Dashboard Design
 Interactive Data Visualization
 Trend Analysis
 Business Insight Generation
+
+# Hospital-Emergency-Room-PowerBI
+│
+├── 📄 README.md
+├── 📊 Hospital Emergency Room Analysis.pbix
+├── 📁 Hospital ER_Data.csv
+├── 📄 data terminology.docx
+├── 📄 Hospital Emergency Room PPT.pptx
+└── 📁 screenshots
+    ├── 🖼️ Monthly_view Dashboard.png
+    ├── 🖼️ Consolidated_view Dashboard.png
+    ├── 🖼️ Patient_detailsDashboard.png
+    └── 🖼️ Key_Takeaways Dashboard.png
+    └── 🖼️ Data_Table.png
+    └── 🖼️ DAX (Top100 Patient).png
+    └── 🖼️ Hospital_ER Data.png
+    └── 🖼️ Table_Relationship.png
+└── 📁 Icons
+    ├── 🖼️ Avg_wait_time.png
+    ├── 🖼️ Calender.png
+    ├── 🖼️ Database.png
+    └── 🖼️ Home.png
+    └── 🖼️ HospitalLogo.png
+    └── 🖼️ No_of_patients.png
+    └── 🖼️ No_of_patients_referred.png
+    └── 🖼️ Patient_satisfaction_score.png
+    
